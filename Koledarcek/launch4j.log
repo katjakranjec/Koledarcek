@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\kranj\eclipse-workspace\Koledarcek\koledarcek.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\kranj\eclipse-workspace\Koledarcek\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-17
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2021b\bin;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\Git\cmd;C:\Users\kranj\AppData\Local\Programs\MiKTeX\miktex\bin\x64;C:\Program Files (x86)\SMLNJ\bin\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Maven\apache-maven-3.9.7\bin;C:\Users\kranj\.jbang\bin;C:\Users\kranj\.jbang\bin;C:\Users\kranj\AppData\Local\Programs\Python\Python312;C:\Users\kranj\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\kranj\AppData\Local\Programs\Python\Python38\;C:\Users\kranj\AppData\Local\ActiveState\StateTool\release\bin;C:\Users\kranj\AppData\Roaming\TinyTeX\bin\windows;C:\Users\kranj\AppData\Local\activestate\cache\bin;C:\Users\kranj\AppData\Local\Microsoft\WindowsApps;C:\Users\kranj\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kranj\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\kranj\AppData\Local\Programs\Python\Python310;C:\Users\kranj\AppData\Local\Programs\Python\Python312\Scripts;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Java\jdk-17\bin
+JRE paths:	C:\Program Files\Java\jdk-17;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2021b\bin;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\Git\cmd;C:\Users\kranj\AppData\Local\Programs\MiKTeX\miktex\bin\x64;C:\Program Files (x86)\SMLNJ\bin\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Maven\apache-maven-3.9.7\bin;C:\Users\kranj\.jbang\bin;C:\Users\kranj\.jbang\bin;C:\Users\kranj\AppData\Local\Programs\Python\Python312;C:\Users\kranj\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\kranj\AppData\Local\Programs\Python\Python38\;C:\Users\kranj\AppData\Local\ActiveState\StateTool\release\bin;C:\Users\kranj\AppData\Roaming\TinyTeX\bin\windows;C:\Users\kranj\AppData\Local\activestate\cache\bin;C:\Users\kranj\AppData\Local\Microsoft\WindowsApps;C:\Users\kranj\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kranj\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Users\kranj\AppData\Local\Programs\Python\Python310;C:\Users\kranj\AppData\Local\Programs\Python\Python312\Scripts;C:\Program Files\Java\jdk-17\bin;;C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_011 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\kranj\eclipse-workspace\Koledarcek\koledarcek.exe"
+Args length:	65/32768 chars
+Exit code:	0
